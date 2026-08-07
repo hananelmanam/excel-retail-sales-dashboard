@@ -68,5 +68,5 @@ This project presents an interactive Retail Sales Dashboard built in Microsoft E
 ## 👩‍💻 Author
 
 **Hanane El Manam**
-Master's Student – Harbin Institute of Technology (HIT Shenzhen)
+Master's Student  (HIT Shenzhen)
 
